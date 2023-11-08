@@ -41,7 +41,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
  <b>This attack map shows all the attempts malicious actors attempting to access the Windows virtual machine</b>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/VVS8wxd.png)<br>
 
-https://imgur.com/a/GZeCdrT <br>
+(https://imgur.com/a/GZeCdrT.png) <br>
 
 
 ## Metrics Before Hardening / Security Controls
