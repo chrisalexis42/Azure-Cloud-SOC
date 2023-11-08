@@ -43,7 +43,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 
 test
-(https://i.imgur.com/38RzaUaundefined.png)<br>
+!(https://i.imgur.com/38RzaUaundefined.png)<br>
 
 ## Metrics Before Hardening / Security Controls
 <p>The following table shows the metrics measured within the unsecured environment for 24 hours:</p>
